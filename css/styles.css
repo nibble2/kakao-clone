@@ -6,6 +6,7 @@
 
 * {
     box-sizing: border-box;
+    /* 패딩을 추가해도 width, height 크기가 늘어나지 않게 */
 }
 
 body {
